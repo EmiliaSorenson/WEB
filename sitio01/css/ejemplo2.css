@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+body{
+background-color: lightblue;
+background-image: url("../img/Mugiwaras.jpg");
+
+}
+p,ul{
+  font-family: 'Lato', sans-serif;
+}
+.First{
+  text-align: left;
+  margin: 50px auto;
+  width: 60%;
+}
+.Second{
+  text-align: left;
+  margin: 50px auto;
+  width: 60%;
+}
+.Songs{
+  text-align: left;
+  margin: 50px auto;
+  width: 60%;
+}
+.todo{
+  background-color: lightblue;
+  margin: 280px;
+  width: 60%;
+  padding: 20px;
+}
+h1,h2{
+color: red;
+}
+.item{
+padding: 10px;
+display: inline-block;
+}
+.item a{
+color: white;
+text-decoration: none;
+padding: 10px;
+background-color: lightblue;
+    border: 2px solid white;
+
+}
